@@ -3,7 +3,7 @@
 
     <groupId>uk.co.thefishlive</groupId>
     <artifactId>less-maven-plugin</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>Less Maven Plugin</name>
@@ -18,7 +18,7 @@
     <scm>
         <url>https://github.com/thefishlive/less-maven-plugin</url>
         <developerConnection>scm:git:https://github.com/thefishlive/less-maven-plugin.git</developerConnection>
-      <tag>1.0-SNAPSHOT</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
